@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">CashRegisterDemo</string>
+    <string name="action_settings">Settings</string>
+    <string name="back">返回上一级</string>
+    <string name="edit_rule">配置优惠活动</string>
+    <string name="bill_title">***《没钱赚商店》购物清单***</string>
+    <string name="name">名称：</string>
+    <string name="line_1">----------------------</string>
+    <string name="line_2">**********************</string>
+    <string name="amount">数量:</string>
+    <string name="price">单价:</string>
+    <string name="subtotal">小计:</string>
+    <string name="total">总计:</string>
+    <string name="save">节省:</string>
+    <string name="price_unit">(元)</string>
+    <string name="more_for_free">买二赠一商品:</string>
+    <string name="label_choose_rule">请选择优惠活动</string>
+    <string name="choose_bill">请选择订单情境</string>
+    <string name="delete">从享受优惠的商品列表中删除</string>
+    <string name="add">添加到享受优惠的商品列表</string>
+    <string name="calc">结算</string>
+    <string name="label_preferential">享受该优惠的商品(勾选后按下方按钮可从列表中移除)</string>
+    <string name="label_nonpreferential">不享受该优惠的商品（勾选后按下方按钮可添加商品到享受优惠列表）</string>
+    <string name="hint_cola">请输入百事可乐数量</string>
+    <string name="hint_ball">请输入皮球的数量</string>
+    <string name="hint_apple">请输入苹果的数量</string>
+
+</resources>
